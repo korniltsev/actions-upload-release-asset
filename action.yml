@@ -1,4 +1,4 @@
-name: "Yet Another Upload Release Asset Action"
+name: "Yet Another Upload Release Asset Action using node16"
 description: "Yet Another Upload Release Asset Action"
 author: "Ichinose Shogo"
 inputs:
